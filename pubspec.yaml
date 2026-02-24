@@ -1,6 +1,6 @@
 name: scroll_3d_overlay
 description: Scroll-driven 3D overlay widget with keyframes (turning phone effect).
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/marcoazeem/scroll_3d_overlay
 repository: https://github.com/marcoazeem/scroll_3d_overlay
 issue_tracker: https://github.com/marcoazeem/scroll_3d_overlay/issues
