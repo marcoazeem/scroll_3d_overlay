@@ -1,7 +1,7 @@
 # scroll_3d_overlay
 
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="Logo"/>
+  <img src="https://github.com/marcoazeem/scroll_3d_overlay/blob/main/assets/logo.png?raw=true" width="120" alt="Logo"/>
 </p>
 
 `scroll_3d_overlay` is a Flutter widget that pins an overlay (image/mockup/card)
@@ -13,7 +13,7 @@ hero visual rotates/translates/scales through keyframes.
 ## Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Demo"/>
+  <img src="https://github.com/marcoazeem/scroll_3d_overlay/blob/main/assets/demo.gif?raw=true" alt="Demo"/>
 </p>
 
 ## Features
