@@ -1,0 +1,17 @@
+name: scroll_3d_overlay
+description: Scroll-driven 3D overlay widget with keyframes (turning phone effect).
+version: 0.0.1
+homepage: https://github.com/yourname/scroll_3d_overlay
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
